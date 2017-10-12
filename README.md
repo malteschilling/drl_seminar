@@ -15,16 +15,16 @@ The seminar will give an introduction into the theoretical background of Neural 
 ## Installation
 The code is written in python (2.7) – and will reference the original source as well as the original publication.
 
-Requirements
-	- [keras](https://keras.io) (for deep learning)
-	- which either requires [tensorflow](https://www.tensorflow.org) or [theano](http://deeplearning.net/software/theano/)
-	- the [OpenAI gym](https://gym.openai.com/)
+Requirements:
+* [keras](https://keras.io) (for deep learning)
+* which either requires [tensorflow](https://www.tensorflow.org) or [theano](http://deeplearning.net/software/theano/)
+* the [OpenAI gym](https://gym.openai.com/)
 
 Installation:
 I recommend to install all the requirements in a virtual environment or container. The easiest way is to follow the instructions on the given sites:
-	1. [Tensorflow](https://www.tensorflow.org/install/): Follow the installation guidelines for your plattform — again, recommended is choosing virtualenv (or docker). Afterwards make sure to activate that virtual environment.
-	2. [Keras](https://keras.io/#installation)
-	3. [OpenAI gym](https://gym.openai.com/docs/)
+1. [Tensorflow](https://www.tensorflow.org/install/): Follow the installation guidelines for your plattform — again, recommended is choosing virtualenv (or docker). Afterwards make sure to activate that virtual environment.
+2. [Keras](https://keras.io/#installation)
+3. [OpenAI gym](https://gym.openai.com/docs/)
 
 After installation, the [OpenAI webpages](https://gym.openai.com/docs/) provide basic information on how to get started and how to add further environments (the algorithms will be applied to the Atari games which should be installed).
 
